@@ -1,0 +1,2 @@
+# premiummalt-auto-retweet
+プレモルの公式アカウントでプレモルが当たるツイートをRTしてみた
