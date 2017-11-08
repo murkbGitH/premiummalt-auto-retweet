@@ -2,8 +2,6 @@ const Twitter = require('twitter')
 
 const consumer_key = 'Cznw5UT8quGj9LB2oDSZgrPkM'
 const consumer_secret = 'GQLhMTOGyEoxHUBvvxTzTsJnwgWzerEaLkkX9I8O5d73iIqPkC'
-const access_token_key = '161704607-bogMimdgXPglOYHCuyCEIrB60upfZ2oC8IWsgwP0'
-const access_token_secret = 'vIxvicRjZXQpoXq7iGmj3IuITNjBanDucmk8CkEAxLV3J'
 
 const client = new Twitter({
   consumer_key,
